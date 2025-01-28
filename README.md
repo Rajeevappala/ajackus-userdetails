@@ -12,21 +12,21 @@ Additionally, all existing user data is displayed below the form for easy access
 ## Project Structure
 
 ├── front/  # React.js frontend code <br>
-├── backend/   # Node.js backend code
-├── README.md  # Project documentation
+├── backend/   # Node.js backend code <br>
+├── README.md  # Project documentation <br>
 
 
 ## Installation
 
 ## Backend 
-cd backend
-npm install
-npm run dev
+cd backend <br>
+npm install <br>
+npm run dev <br>
 
 ## frontend 
-cd front 
-npm install
-npm start
+cd front <br>
+npm install <br>
+npm start <br>
 
 ## frontend repo 
 you can view frontend repository [https://github.com/Rajeevappala/ajackus-frontend]
