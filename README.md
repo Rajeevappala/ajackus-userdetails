@@ -31,6 +31,9 @@ npm start
 ## frontend repo 
 you can view frontend repository [https://github.com/Rajeevappala/ajackus-frontend]
 
+## backend repo 
+you can view backend repository [https://github.com/Rajeevappala/ajackus-backend]
+
 ## Technologies Used
 - Frontend: React.js, Axios
 - Backend: Node.js, Express.js
