@@ -28,6 +28,8 @@ cd front
 npm install
 npm start
 
+## frontend repo 
+you can view frontend repository [https://github.com/Rajeevappala/ajackus-frontend]
 
 ## Technologies Used
 - Frontend: React.js, Axios
