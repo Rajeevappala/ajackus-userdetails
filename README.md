@@ -11,7 +11,7 @@ Additionally, all existing user data is displayed below the form for easy access
 
 ## Project Structure
 
-├── front/  # React.js frontend code
+├── front/  # React.js frontend code <br>
 ├── backend/   # Node.js backend code
 ├── README.md  # Project documentation
 
